@@ -1,0 +1,7 @@
+127.0.0.1 - - [17/Jan/2024:20:01:13 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [17/Jan/2024:20:01:24 +0530] "POST /StdudentWebApp/LoginServlet HTTP/1.1" 200 656
+0:0:0:0:0:0:0:1 - - [17/Jan/2024:20:01:26 +0530] "GET /StdudentWebApp/GetAllStd HTTP/1.1" 200 1706
+0:0:0:0:0:0:0:1 - - [17/Jan/2024:20:01:30 +0530] "GET /StdudentWebApp/GetStdById.jsp HTTP/1.1" 200 1209
+0:0:0:0:0:0:0:1 - - [17/Jan/2024:20:01:33 +0530] "POST /StdudentWebApp/GetStdById HTTP/1.1" 200 1227
+0:0:0:0:0:0:0:1 - - [17/Jan/2024:20:02:05 +0530] "POST /StdudentWebApp/LoginServlet HTTP/1.1" 200 611
+0:0:0:0:0:0:0:1 - - [17/Jan/2024:20:02:08 +0530] "GET /StdudentWebApp/Profile.jsp HTTP/1.1" 200 1245
